@@ -24,13 +24,5 @@ License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this script as long as you comply with the terms of the license.
 
 Contact
-For questions or issues, please use the GitHub issue tracker or contact me at YourEmail@domain.com.
+For questions or issues, please use the GitHub issue tracker or contact me at dodocz.net@gmail.com.
 
-
-### Key Points to Customize:
-
-- **`dodocz.net@gmail.com.com`**: Replace with your actual contact email.
-- **Repository Description**: You can add any additional details specific to your project if needed.
-- **License**: Make sure you include a `LICENSE` file in your repository if you are referring to it.
-
-This `README.md` provides a clear overview of the script, how to install and use it, and includes necessary legal and contact information.
