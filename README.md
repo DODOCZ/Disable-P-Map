@@ -1,3 +1,6 @@
+
+![Disable P map](https://github.com/user-attachments/assets/cfa70416-33e4-438f-909d-729fb4528835)
+
 # Disable Map Opening with P Key - FiveM Script
 
 This FiveM script is designed to disable the map from opening when the `P` key is pressed. It's a straightforward and efficient solution for server administrators who want to prevent players from using the `P` key to access the map, providing more control over gameplay.
